@@ -3,9 +3,6 @@
 Welcome to the TypeScript Learning Plan! This 13-day plan is designed to help you master TypeScript while covering various topics, similar to the JavaScript challenge you mentioned.
 
 ## 1: TypeScript Basics
-- Introduction to TypeScript
-- Setting up a TypeScript project
-- Variables and data types in TypeScript
 - Comparison operators and logical operators in TypeScript
 - Conditionals (if, else if, else) in TypeScript
 
